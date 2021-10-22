@@ -8,6 +8,10 @@
     display: flex;
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
 .col-lg-1 {
     flex-basis: calc(100% / 12);
     max-width: calc(100% / 12);
@@ -67,3 +71,4 @@
     flex-basis: calc((100% / 12) * 12);
     max-width: calc((100% / 12) * 12);
 }
+
