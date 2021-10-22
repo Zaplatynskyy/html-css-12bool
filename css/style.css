@@ -10,4 +10,13 @@
     line-height: calc(100vh / 5);
     background-color: #ffc0cb;
     border: 1px solid black;
+    padding: 5px;
+}
+
+.box_nested {
+    min-height: calc(100vh / 5);
+    text-align: center;
+    line-height: calc(100vh / 5);
+    background-color: #f07f80;
+    border: 1px solid white;
 }
