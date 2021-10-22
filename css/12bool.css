@@ -1,16 +1,11 @@
 .container {
     width: 1170px;
     max-width: 1170px;
-    height: 100vh;
     margin: 0 auto;
 }
 
 .row {
     display: flex;
-}
-
-.wrap {
-    flex-wrap: wrap;
 }
 
 .col-lg-1 {

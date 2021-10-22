@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.box {
+    min-height: calc(100vh / 5);
+    text-align: center;
+    line-height: calc(100vh / 5);
+    background-color: #ffc0cb;
+    border: 1px solid black;
+}
