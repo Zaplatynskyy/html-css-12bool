@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+span {
+    text-align: center;
+}
+
 .flex_center {
     display: flex;
     justify-content: center;
@@ -22,4 +26,5 @@
     min-height: calc(100vh / 5);
     background-color: #f07f80;
     border: 1px solid white;
+    padding: 10px;
 }
